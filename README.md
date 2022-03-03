@@ -32,6 +32,7 @@ If you wish to contribute to my content, please contact me at asunshine99@gmail.
 
 ## Links to Application
 
+-   Here is the deployed app on Heroku: [https://aidan-chamberlain-note-taker.herokuapp.com/](https://aidan-chamberlain-note-taker.herokuapp.com/)
 -   Here is the demo video on Google Drive: [https://drive.google.com/file/d/1A3jNoUFuyS2EO6IaExFusug1V0hbQM1G/view?usp=sharing](https://drive.google.com/file/d/1A3jNoUFuyS2EO6IaExFusug1V0hbQM1G/view?usp=sharing)
 -   Here is the repo: [https://github.com/RedComet6/note-taker](https://github.com/RedComet6/note-taker)
 -   Here is the pages: [https://redcomet6.github.io/note-taker/](https://redcomet6.github.io/note-taker/)
